@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a postdoctoral fellow in the Section on Functional Imaging Methods, part of the Laboratory of Brain and Cognition at the National Institute of Mental Health (mentor: Peter Bandettini), where I use fMRI to study individual differences in brain activity and connectivity and how these relate to behavior. Specifically, I am investigating how naturalistic task paradigms may be used to draw out individual variation of interest, in both healthy people and those with or at risk for psychiatric illness.
+
+I recently completed my PhD in neuroscience at Yale University. My thesis work (advisor: Todd Constable) demonstrated that each individual has a functional connectivity ‘signature’ that is both unique and reliable across various brain states, and that features of these signatures predict high-level cognitive traits such as fluid intelligence.
 
 A data-driven personal website
 ======
