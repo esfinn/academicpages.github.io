@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow in the Section on Functional Imaging Methods, part of the Laboratory of Brain and Cognition at the National Institute of Mental Health (mentor: Peter Bandettini), where I use fMRI to study individual differences in brain activity and connectivity and how these relate to behavior. Specifically, I am investigating how naturalistic task paradigms may be used to draw out individual variation of interest, in both healthy people and those with or at risk for psychiatric illness.
+I am a postdoctoral fellow in the Section on Functional Imaging Methods (PI: Peter Bandettini), part of the Laboratory of Brain and Cognition at the National Institute of Mental Health. I use fMRI to study individual differences in brain activity and connectivity and how these relate to behavior. Specifically, I am investigating how naturalistic task paradigms may be used to draw out individual variation of interest, in both healthy people and those with or at risk for psychiatric illness.
 
 I recently completed my PhD in neuroscience at Yale University. My thesis work (advisor: Todd Constable) demonstrated that each individual has a functional connectivity ‘signature’ that is both unique and reliable across various brain states, and that features of these signatures predict high-level cognitive traits such as fluid intelligence.
