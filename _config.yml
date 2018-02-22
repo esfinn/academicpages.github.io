@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Emily S. Finn, PhD"
 title_separator          : "-"
-name                     : &name "Emily S. Finn"
+name                     : &name "Emily S. Finn, PhD"
 description              : &description "Postdoc at NIMH."
 url                      : https://esfinn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-8591-3068"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -110,6 +110,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  publons          : "https://publons.com/author/1268419/emily-s-finn#profile"
 
 
 # Reading Files
