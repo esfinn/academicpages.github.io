@@ -9,9 +9,9 @@ You can find my full list of publications on [[my Google Scholar profile]](https
 
 ### Selected publications
 
-Finn ES et al. "Can we manipulate brain state to emphasize individual differences in functional connectivity?" [[pdf]](https://esfinn.github.io/files/nn.4135.pdf)
+**Finn ES**, Scheinost D, Finn DM, Shen X, Papademetris X, Constable RT. "Can we manipulate brain state to emphasize individual differences in functional connectivity?" [[pdf]](https://esfinn.github.io/files/nn.4135.pdf)
 
-Finn ES et al. "Functional connectome fingerprinting: identifying individuals using patterns of brain connectivity." [[pdf]](https://esfinn.github.io/files/nn.4135.pdf)[[code]](https://www.nitrc.org/frs/?group_id=51)
+**Finn ES**, Shen X, Scheinost D, Rosenberg MD, Huang J, Chun MM, Papademetris X, Constable RT. "Functional connectome fingerprinting: identifying individuals using patterns of brain connectivity." [[pdf]](https://esfinn.github.io/files/nn.4135.pdf)[[code]](https://www.nitrc.org/frs/?group_id=51)
 
 ### Other publications
 
