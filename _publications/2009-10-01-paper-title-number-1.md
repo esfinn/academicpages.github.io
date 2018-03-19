@@ -13,3 +13,5 @@ This paper is about the number 1. The number 2 is left for future work.
 [Download paper here](http://esfinn.github.io/files/nn.4135.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
+Finn ES et al. "Functional connectome fingerprinting: identifying individuals using patterns of brain connectivity." [pdf](http://esfinn.github.io/files/nn.4135.pdf)
