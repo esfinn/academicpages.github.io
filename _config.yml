@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "test"
+title                    : "Emily S. Finn, PhD"
 title_separator          : "-"
 name                     : &name "Emily S. Finn, PhD"
 description              : &description "Postdoc at NIMH."
