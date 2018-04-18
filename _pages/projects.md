@@ -5,4 +5,4 @@ permalink: /projects/
 author_profile: true
 ---
 
-This is a list of my projects.
+Here you can find links to data, code and descriptions of completed and ongoing research projects.
