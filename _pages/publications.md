@@ -5,13 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find my full list of publications on [[my Google Scholar profile]](https://scholar.google.com/citations?user=95oJGacAAAAJ&hl=en&oi=ao).
+You can find the full list of my publications on [[my Google Scholar profile]](https://scholar.google.com/citations?user=95oJGacAAAAJ&hl=en&oi=ao).
 
 ### Peer-reviewed publications
 
 Horien C, Noble S, **Finn ES**, Shen X, Scheinost D, Constable RT. (2018). Considering factors affecting the connectome-based identification process: Comment on Waller et al. I *NeuroImage*, 169: 172-175.
 
-**Finn ES**, Scheinost D, Finn DM, Shen X, Papademetris X, Constable RT. (2017). Can brain state be manipulated to emphasize individual differences in functional connectivity? The *NeuroImage*, 160: 140-151.
+**Finn ES**, Scheinost D, Finn DM, Shen X, Papademetris X, Constable RT. (2017). Can brain state be manipulated to emphasize individual differences in functional connectivity? *NeuroImage*, 160: 140-151.
 
 Vanderwal T, Eilbott J, **Finn ES**, Craddock RC, Turnbull A, Castellanos FX. (2017).
 Individual differences in functional connectivity during naturalistic viewing conditions. *NeuroImage*, 157: 521-530.
@@ -30,13 +30,9 @@ Noble S, Scheinost D, **Finn ES**, Shen X, […], Cannon TD, Constable RT. (2017
 
 Rosenberg MD, Zhang S, Hsu WT, Scheinost D, **Finn ES**, Shen X, Constable RT, Li C, Chun MM. (2016). Methylphenidate modulates functional network connectivity to enhance attention. *Journal of Neuroscience*, 36(37): 9547–9557.
 
-Rosenberg MD*, **Finn ES**\*, Scheinost D, Shen X, Papademetris X, Constable RT, Chun MM. (2016) A neuromarker of sustained attention from whole-brain functional connectivity. *Nature Neuroscience*, 19: 165–171.
-*\*Authors contributed equally
+Rosenberg MD*, **Finn ES**\*, Scheinost D, Shen X, Papademetris X, Constable RT, Chun MM. (2016) A neuromarker of sustained attention from whole-brain functional connectivity. *Nature Neuroscience*, 19: 165–171.<br/>*\*Authors contributed equally*
 
-**Finn ES**\*, Shen X*, Scheinost D, Rosenberg MD, Huang J, Chun MM, Papademetris X, Constable RT. (2015) Functional connectome fingerprinting: Identifying individuals using patterns of brain connectivity. *Nature Neuroscience*, 18: 1664–1671.
-*\*Authors contributed equally
-Press coverage: BBC, NBC, PBS, CBS, Newsweek, Scientific American, Discover, Wired, Nature News, The Scientist
-Companion article for lay reader: TheConversation.com
+**Finn ES**\*, Shen X*, Scheinost D, Rosenberg MD, Huang J, Chun MM, Papademetris X, Constable RT. (2015) Functional connectome fingerprinting: Identifying individuals using patterns of brain connectivity. *Nature Neuroscience*, 18: 1664–1671.<br/>*\*Authors contributed equally*<br/>Press coverage: BBC, NBC, PBS, CBS, Newsweek, Scientific American, Discover, Wired, Nature News, The Scientist<br/>Companion article for lay reader: TheConversation.com
 
 Powers III AR, Ganscos MG, **Finn ES**, Morgan PT, Corlett PR. (2015). Ketamine-induced hallucinations. *Psychopathology*, 48 (6): 376-385.
 
@@ -51,14 +47,3 @@ Scheinost D, **Finn ES**, Tokoglu F, Shen X, Papademetris X, Hampson M, Constabl
 Scheinost D, Shen X, **Finn ES**, Sinha R, Constable RT, Papademetris X. (2014) Coupled intrinsic connectivity distribution analysis: A method for exploratory connectivity analysis of paired fMRI data. *PLoS ONE*, 9(3): e93544.
 
 Constable RT, Scheinost D, **Finn ES**, Shen X, Hampson M, Winstanley FS, Spencer DD, Papademetris X. (2013) Potential use and challenges of functional connectivity mapping in intractable epilepsy. *Frontiers in Neurology*, 4 May: 39.
-
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
