@@ -18,7 +18,7 @@ Individual differences in functional connectivity during naturalistic viewing co
 
 Rosenberg MD, **Finn ES**, Scheinost D, Constable RT, Chun MM. (2017). Characterizing attention with predictive network models. *Trends in Cognitive Sciences* 21: 290-302.
 
-Shen X, **Finn ES**, Scheinost D, Rosenberg MD, Chun MM, Papademetris X, Constable RT. (2017). Using connectome-based predictive modeling to predict individual behavior from brain connectivity. *Nat. Protocols* 12: 506-18.
+Shen X, **Finn ES**, Scheinost D, Rosenberg MD, Chun MM, Papademetris X, Constable RT. (2017). Using connectome-based predictive modeling to predict individual behavior from brain connectivity. *Nature Protocols* 12: 506-18.
 
 Scheinost D, Tokoglu F, Shen X, **Finn ES**, Noble S, Papademetris X, Constable RT. (2016). Fluctuations in global brain activity are associated with changes in whole-brain connectivity of functional networks. *IEEE Transactions on Biomedical Engineering*, 63(12): 2540–2549.
 
@@ -32,7 +32,7 @@ Rosenberg MD, Zhang S, Hsu WT, Scheinost D, **Finn ES**, Shen X, Constable RT, L
 
 Rosenberg MD*, **Finn ES**\*, Scheinost D, Shen X, Papademetris X, Constable RT, Chun MM. (2016) A neuromarker of sustained attention from whole-brain functional connectivity. *Nature Neuroscience*, 19: 165–171.<br/>*\*Authors contributed equally*
 
-**Finn ES**\*, Shen X*, Scheinost D, Rosenberg MD, Huang J, Chun MM, Papademetris X, Constable RT. (2015) Functional connectome fingerprinting: Identifying individuals using patterns of brain connectivity. *Nature Neuroscience*, 18: 1664–1671.<br/>*\*Authors contributed equally*<br/>Press coverage: BBC, NBC, PBS, CBS, Newsweek, Scientific American, Discover, Wired, Nature News, The Scientist<br/>Companion article for lay reader: TheConversation.com
+**Finn ES**\*, Shen X*, Scheinost D, Rosenberg MD, Huang J, Chun MM, Papademetris X, Constable RT. (2015) Functional connectome fingerprinting: Identifying individuals using patterns of brain connectivity. *Nature Neuroscience*, 18: 1664–1671.<br/>*\*Authors contributed equally*<br/>Press coverage: BBC, NBC, PBS, CBS, Newsweek, Scientific American, Discover, Wired, Nature News, The Scientist<br/>Companion article for lay reader: TheConversation.com [[pdf]](https://esfinn.github.io/files/nn.4135.pdf)
 
 Powers III AR, Ganscos MG, **Finn ES**, Morgan PT, Corlett PR. (2015). Ketamine-induced hallucinations. *Psychopathology*, 48 (6): 376-385.
 
