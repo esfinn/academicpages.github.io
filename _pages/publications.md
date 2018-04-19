@@ -9,7 +9,7 @@ You can find the full list of my publications on [[my Google Scholar profile]](h
 
 ### Peer-reviewed publications
 
-Horien C, Noble S, **Finn ES**, Shen X, Scheinost D, Constable RT. (2018). Considering factors affecting the connectome-based identification process: Comment on Waller et al. I *NeuroImage*, 169: 172-175.
+Horien C, Noble S, **Finn ES**, Shen X, Scheinost D, Constable RT. (2018). Considering factors affecting the connectome-based identification process: Comment on Waller et al. *NeuroImage*, 169: 172-175.
 
 **Finn ES**, Scheinost D, Finn DM, Shen X, Papademetris X, Constable RT. (2017). Can brain state be manipulated to emphasize individual differences in functional connectivity? *NeuroImage*, 160: 140-151.
 
