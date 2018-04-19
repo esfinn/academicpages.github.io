@@ -30,9 +30,9 @@ Noble S, Scheinost D, **Finn ES**, Shen X, […], Cannon TD, Constable RT. (2017
 
 Rosenberg MD, Zhang S, Hsu WT, Scheinost D, **Finn ES**, Shen X, Constable RT, Li C, Chun MM. (2016). Methylphenidate modulates functional network connectivity to enhance attention. *Journal of Neuroscience*, 36(37): 9547–9557.
 
-Rosenberg MD*, **Finn ES**\*, Scheinost D, Shen X, Papademetris X, Constable RT, Chun MM. (2016) A neuromarker of sustained attention from whole-brain functional connectivity. *Nature Neuroscience*, 19: 165–171.<br/>*\*Authors contributed equally*
+Rosenberg MD\*, **Finn ES**\*, Scheinost D, Shen X, Papademetris X, Constable RT, Chun MM. (2016) A neuromarker of sustained attention from whole-brain functional connectivity. *Nature Neuroscience*, 19: 165–171.<br/>*\*Authors contributed equally*
 
-**Finn ES**\*, Shen X*, Scheinost D, Rosenberg MD, Huang J, Chun MM, Papademetris X, Constable RT. (2015) Functional connectome fingerprinting: Identifying individuals using patterns of brain connectivity. *Nature Neuroscience*, 18: 1664–1671.<br/>*\*Authors contributed equally*<br/>Press coverage: BBC, NBC, PBS, CBS, Newsweek, Scientific American, Discover, Wired, Nature News, The Scientist<br/>Companion article for lay reader: TheConversation.com [[pdf]](https://esfinn.github.io/files/nn.4135.pdf)
+**Finn ES**\*, Shen X\*, Scheinost D, Rosenberg MD, Huang J, Chun MM, Papademetris X, Constable RT. (2015) Functional connectome fingerprinting: Identifying individuals using patterns of brain connectivity. *Nature Neuroscience*, 18: 1664–1671.<br/>*\*Authors contributed equally*<br/>Press coverage: BBC, NBC, PBS, CBS, Newsweek, Scientific American, Discover, Wired, Nature News, The Scientist<br/>Companion article for lay reader: TheConversation.com [[pdf]](https://esfinn.github.io/files/nn.4135.pdf)
 
 Powers III AR, Ganscos MG, **Finn ES**, Morgan PT, Corlett PR. (2015). Ketamine-induced hallucinations. *Psychopathology*, 48 (6): 376-385.
 
