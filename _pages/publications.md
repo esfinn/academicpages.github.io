@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find the full list of my publications on [[my Google Scholar profile]](https://scholar.google.com/citations?user=95oJGacAAAAJ&hl=en&oi=ao).
+You can find a full list of publications on [[my Google Scholar profile]](https://scholar.google.com/citations?user=95oJGacAAAAJ&hl=en&oi=ao).
 
 ### Peer-reviewed publications
 
