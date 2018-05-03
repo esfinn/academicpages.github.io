@@ -1,7 +1,7 @@
 ---
-layout: archive
 title: "Projects"
 permalink: /projects/
+colorlinks: true
 author_profile: true
 ---
 
