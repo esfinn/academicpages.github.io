@@ -8,7 +8,7 @@ author_profile: true
 You can find a full list of publications on [[my Google Scholar profile]](https://scholar.google.com/citations?user=95oJGacAAAAJ&hl=en&oi=ao).
 
 ### Preprints
-**Finn ES**, Huber L, Jangraw DC, Bandettini PA. Layer-dependent activity in human prefrontal cortex during working memory. [[bioRxiv]] (https://www.biorxiv.org/content/early/2018/09/24/425249)
+**Finn ES**, Huber L, Jangraw DC, Bandettini PA. Layer-dependent activity in human prefrontal cortex during working memory. [[bioRxiv]](https://www.biorxiv.org/content/early/2018/09/24/425249)
 
 Lake EMR, **Finn ES**, Noble SM, Vanderwal T, Shen X, Rosenberg MD, Spann MN, Chun MM, Constable RT. The functional brain organization of an individual predicts measures of social abilities in autism spectrum disorder. [[bioRxiv]](https://www.biorxiv.org/content/early/2018/03/28/290320)
 
