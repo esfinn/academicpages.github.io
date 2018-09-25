@@ -8,11 +8,13 @@ author_profile: true
 You can find a full list of publications on [[my Google Scholar profile]](https://scholar.google.com/citations?user=95oJGacAAAAJ&hl=en&oi=ao).
 
 ### Preprints
-Lake EMR, **Finn ES**, Noble SM, Vanderwal T, Shen X, Rosenberg MD, Spann MN, Chun MM, Constable RT. The functional brain organization of an individual predicts measures of social abilities in autism spectrum disorder. [bioRxiv](https://www.biorxiv.org/content/early/2018/03/28/290320)
+**Finn ES**, Huber L, Jangraw DC, Bandettini PA. Layer-dependent activity in human prefrontal cortex during working memory. [[bioRxiv]] (https://www.biorxiv.org/content/early/2018/09/24/425249)
+
+Lake EMR, **Finn ES**, Noble SM, Vanderwal T, Shen X, Rosenberg MD, Spann MN, Chun MM, Constable RT. The functional brain organization of an individual predicts measures of social abilities in autism spectrum disorder. [[bioRxiv]](https://www.biorxiv.org/content/early/2018/03/28/290320)
 
 ### Peer-reviewed publications
 
-**Finn ES**, Corlett PR, Chen G, Bandettini PA, Constable RT. (2018). Trait paranoia shapes inter-subject synchrony in brain activity during an ambiguous social narrative. *Nature Communications*, in press. [bioRxiv preprint](https://www.biorxiv.org/content/early/2018/04/24/231738)
+**Finn ES**, Corlett PR, Chen G, Bandettini PA, Constable RT. (2018). Trait paranoia shapes inter-subject synchrony in brain activity during an ambiguous social narrative. *Nature Communications*, 9: 2043. [[pdf]](https://esfinn.github.io/files/Finn_NatComms2018.pdf)
 
 Horien C, Noble S, **Finn ES**, Shen X, Scheinost D, Constable RT. (2018). Considering factors affecting the connectome-based identification process: Comment on Waller et al. *NeuroImage*, 169: 172-175. [[pdf]](https://esfinn.github.io/files/Horien_NeuroImage2018.pdf)
 
