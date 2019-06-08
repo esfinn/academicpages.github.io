@@ -12,7 +12,7 @@ You can find a full list of publications on [[my Google Scholar profile]](https:
 
 Huber L, **Finn ES**, Handwerker DA, Boenstrup M, Glen D, Kashyap S, Ivanov D, Petridou N, Marrett S, Goense J, Poser B, Bandettini PA. Sub-millimeter fMRI reveals multiple topographical digit representations that form action maps in human motor cortex. [[bioRxiv]](https://doi.org/10.1101/457002)
 
-Chen G, Taylor PA, Qu X, Molfese PJ, Bandettini PA, Cox RW, Finn ES. Untangling the Relatedness among Correlations, Part III: Inter-Subject Correlation Analysis through Bayesian Multilevel Modeling for Naturalistic Scanning. [[bioRxiv]](https://doi.org/10.1101/655738)
+Chen G, Taylor PA, Qu X, Molfese PJ, Bandettini PA, Cox RW, **Finn ES**. Untangling the Relatedness among Correlations, Part III: Inter-Subject Correlation Analysis through Bayesian Multilevel Modeling for Naturalistic Scanning. [[bioRxiv]](https://doi.org/10.1101/655738)
 
 ### Peer-reviewed publications
 Lake EMR, **Finn ES**, Noble SM, Vanderwal T, Shen X, Rosenberg MD, Spann MN, Chun MM, Constable RT. The functional brain organization of an individual predicts measures of social abilities in autism spectrum disorder. *Biological Psychiatry*, in press. [[pdf]](https://esfinn.github.io/files/Lake_BiolPsych2019.pdf)
