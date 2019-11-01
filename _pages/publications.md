@@ -8,13 +8,17 @@ author_profile: true
 You can find a full list of publications on [[my Google Scholar profile]](https://scholar.google.com/citations?user=95oJGacAAAAJ&hl=en&oi=ao).
 
 ### Preprints
-**Finn ES**, Huber L, Jangraw DC, Bandettini PA. Layer-dependent activity in human prefrontal cortex during working memory. [[bioRxiv]](https://www.biorxiv.org/content/early/2018/09/24/425249)
+
+**Finn ES**, Glerean E, Khojandi AY, Nielson D, Molfese PJ, Handwerker DA, Bandettini PA. Idiosynchrony: From shared responses to individual differences during naturalistic neuroimaging. [[PsyArXiv]](https://doi.org/10.31234/osf.io/yeu89)
 
 Huber L, **Finn ES**, Handwerker DA, Boenstrup M, Glen D, Kashyap S, Ivanov D, Petridou N, Marrett S, Goense J, Poser B, Bandettini PA. Sub-millimeter fMRI reveals multiple topographical digit representations that form action maps in human motor cortex. [[bioRxiv]](https://doi.org/10.1101/457002)
 
 Chen G, Taylor PA, Qu X, Molfese PJ, Bandettini PA, Cox RW, **Finn ES**. Untangling the Relatedness among Correlations, Part III: Inter-Subject Correlation Analysis through Bayesian Multilevel Modeling for Naturalistic Scanning. [[bioRxiv]](https://doi.org/10.1101/655738)
 
+
 ### Peer-reviewed publications
+**Finn ES**, Huber L, Jangraw DC, Bandettini PA. Layer-dependent activity in human prefrontal cortex during working memory. *Nature Neuroscience*, 22: 1687–1695. [[pdf]](https://esfinn.github.io/files/Finn_NatNeuro2019.pdf)
+
 Lake EMR, **Finn ES**, Noble SM, Vanderwal T, Shen X, Rosenberg MD, Spann MN, Chun MM, Constable RT. The functional brain organization of an individual predicts measures of social abilities in autism spectrum disorder. *Biological Psychiatry*, in press. [[pdf]](https://esfinn.github.io/files/Lake_BiolPsych2019.pdf)
 
 **Finn ES**, Corlett PR, Chen G, Bandettini PA, Constable RT. (2018). Trait paranoia shapes inter-subject synchrony in brain activity during an ambiguous social narrative. *Nature Communications*, 9: 2043. [[pdf]](https://esfinn.github.io/files/Finn_NatComms2018.pdf)
