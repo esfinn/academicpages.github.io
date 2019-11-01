@@ -17,7 +17,7 @@ Chen G, Taylor PA, Qu X, Molfese PJ, Bandettini PA, Cox RW, **Finn ES**. Untangl
 
 
 ### Peer-reviewed publications
-**Finn ES**, Huber L, Jangraw DC, Bandettini PA. Layer-dependent activity in human prefrontal cortex during working memory. *Nature Neuroscience*, 22: 1687–1695. [[pdf]](https://esfinn.github.io/files/Finn_NatNeuro2019.pdf)
+**Finn ES**, Huber L, Jangraw DC, Molfese PJ, Bandettini PA. Layer-dependent activity in human prefrontal cortex during working memory. *Nature Neuroscience*, 22: 1687–1695. [[pdf]](https://esfinn.github.io/files/Finn_NatNeuro2019.pdf)
 
 Lake EMR, **Finn ES**, Noble SM, Vanderwal T, Shen X, Rosenberg MD, Spann MN, Chun MM, Constable RT. The functional brain organization of an individual predicts measures of social abilities in autism spectrum disorder. *Biological Psychiatry*, in press. [[pdf]](https://esfinn.github.io/files/Lake_BiolPsych2019.pdf)
 
