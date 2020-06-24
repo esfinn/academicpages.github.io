@@ -9,14 +9,18 @@ You can find a full list of publications on [[my Google Scholar profile]](https:
 
 ### Preprints
 
-**Finn ES**, Glerean E, Khojandi AY, Nielson D, Molfese PJ, Handwerker DA, Bandettini PA. Idiosynchrony: From shared responses to individual differences during naturalistic neuroimaging. [[PsyArXiv]](https://doi.org/10.31234/osf.io/yeu89)
-
-Huber L, **Finn ES**, Handwerker DA, Boenstrup M, Glen D, Kashyap S, Ivanov D, Petridou N, Marrett S, Goense J, Poser B, Bandettini PA. Sub-millimeter fMRI reveals multiple topographical digit representations that form action maps in human motor cortex. [[bioRxiv]](https://doi.org/10.1101/457002)
-
-Chen G, Taylor PA, Qu X, Molfese PJ, Bandettini PA, Cox RW, **Finn ES**. Untangling the Relatedness among Correlations, Part III: Inter-Subject Correlation Analysis through Bayesian Multilevel Modeling for Naturalistic Scanning. [[bioRxiv]](https://doi.org/10.1101/655738)
-
 
 ### Peer-reviewed publications
+Huber L, **Finn ES**, Chai Y, Goebel R, Stirnberg R, Stöcker T, Marrett S, Uludag K, Kim SG, Han S, Bandettini PA, Poser BA. (2020). Layer-dependent functional connectivity methods. *Progress in Neurobiology*, 101835.
+
+**Finn ES**, Glerean E, Khojandi AY, Nielson D, Molfese PJ, Handwerker DA, Bandettini PA. (2020). Idiosynchrony: From shared responses to individual differences during naturalistic neuroimaging. *NeuroImage*, 116828.
+
+Huber L, **Finn ES**, Handwerker DA, Boenstrup M, Glen D, Kashyap S, Ivanov D, Petridou N, Marrett S, Goense J, Poser B, Bandettini PA. (2020). Sub-millimeter fMRI reveals multiple topographical digit representations that form action maps in human motor cortex. *NeuroImage*, 208: 116463.
+
+Rosenberg MD, Scheinost D, Greene AS, Avery EW, Kwon YH, **Finn ES**, Ramani R, Qiu M, Constable RT, Chun MM. (2020). Functional connectivity predicts changes in attention observed across minutes, days, and months. *PNAS*, 117: 3797-3807.
+
+Chen G, Taylor PA, Qu X, Molfese PJ, Bandettini PA, Cox RW, **Finn ES**. (2019). Untangling the Relatedness among Correlations, Part III: Inter-Subject Correlation Analysis through Bayesian Multilevel Modeling for Naturalistic Scanning. *NeuroImage*, 116474.
+
 **Finn ES**, Huber L, Jangraw DC, Molfese PJ, Bandettini PA. Layer-dependent activity in human prefrontal cortex during working memory. *Nature Neuroscience*, 22: 1687–1695. [[pdf]](https://esfinn.github.io/files/Finn_NatNeuro2019.pdf)
 
 Lake EMR, **Finn ES**, Noble SM, Vanderwal T, Shen X, Rosenberg MD, Spann MN, Chun MM, Constable RT. The functional brain organization of an individual predicts measures of social abilities in autism spectrum disorder. *Biological Psychiatry*, in press. [[pdf]](https://esfinn.github.io/files/Lake_BiolPsych2019.pdf)
