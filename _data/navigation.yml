@@ -4,4 +4,4 @@ main:
     url: /files/FinnCV.pdf
     
   - title: "Publications"
-    url: /publications/
+    url: https://thefinnlab.github.io/publications/
