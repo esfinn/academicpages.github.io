@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Emily S. Finn, PhD"
 title_separator          : "-"
 name                     : &name "Emily S. Finn, PhD"
-description              : &description "Postdoc at NIMH."
+description              : &description "Assistant Professor, Dartmouth College"
 url                      : https://esfinn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "esfinn.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Emily S. Finn, PhD"
   avatar           : "esf_photo.jpg"
-  bio              : "Postdoc at NIMH"
+  bio              : "Assistant Professor, Dartmouth College"
   location         : "Bethesda, MD"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=95oJGacAAAAJ&hl=en"
